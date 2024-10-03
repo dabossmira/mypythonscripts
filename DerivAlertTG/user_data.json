@@ -1,0 +1,23 @@
+{
+    "6531141566": {
+        "chat_id": "6531141566",
+        "email": "dabossmira@gmail.com",
+        "instrument": "CRASH500",
+        "custom_message": "Last for this night if it works",
+        "alert_price": 4323.0
+    },
+    "657073225": {
+        "chat_id": "657073225",
+        "instrument": "CRASH1000",
+        "custom_message": "Last message as well",
+        "alert_price": 6378.4,
+        "email": "miraculus2017@gmail.com"
+    },
+    "5806393891": {
+        "chat_id": "5806393891",
+        "email": "mfonnsubong@gmail.com",
+        "instrument": "1HZ10V",
+        "custom_message": "Price ran relative equal highs",
+        "alert_price": 9061.0
+    }
+}
